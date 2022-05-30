@@ -16,6 +16,9 @@
     overflow: hidden;
     color: var(--black);    
 }
+body{
+  background-color: var(--gray);
+}
 
 
 
