@@ -5,7 +5,7 @@ const Navbar = () => {
   return (
     <div className="n-wrapper">
         <div className="n-left">
-            <div className="n-name">Aminew</div>
+            <div className="n-name">ASH Tech</div>
             <span>Toggle</span>
         </div>
         <div className="n-right">
@@ -19,7 +19,7 @@ const Navbar = () => {
                 </ul>
             </div>
             <button className="button n-button">
-                Contact Us
+                Contact
             </button>
         </div>
     </div>
